@@ -1,5 +1,4 @@
 # proyecto_integrador_sql_delta
-![modelo_entidad_relacion](https://user-images.githubusercontent.com/105289424/179334978-60b95c96-224d-406a-8140-58ad1ff772bb.jpg)
 # proyecto_integrador_sql_delta
 
 En este proyecto integrador sql del grupo delta se mostraran los diferentes archivos que contiene el repositorio: los cuales son, el scrip la cual 
