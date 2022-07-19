@@ -1,4 +1,4 @@
-use proyecto_integrador_sql_delta;
+use proyecto_integrador_delta;
 
 insert into users(name,document,description,email,date_of_birth,cellphone,photo)
 values('kenyer ortiz','CC 1156261635', 'Estudiante con muchas ganas de aprender sobre el mundo de la informatica','kenyer1@gmail.com','1997-07-12','3125895654',0),
