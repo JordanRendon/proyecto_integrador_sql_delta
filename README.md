@@ -1,5 +1,4 @@
 # proyecto_integrador_sql_delta
-# proyecto_integrador_sql_delta
 
 En este proyecto integrador sql del grupo delta se mostraran los diferentes archivos que contiene el repositorio: los cuales son, el scrip la cual 
 contiene el codigo de la creacion de la base de datos proyecto integrador sql, contiene los datos el cual es un scrip .sql donde se muestra la insercion de los registros
@@ -7,7 +6,7 @@ que tendra cada tabla de la base de datos(los id,nombres,descripciones,fechas,do
 hay dos archivos el cual uno es una imagen del MER y un .mwb que es la extencion del archivo MER, y se encontraran 5 consultas que son .scrip donde se muestran
 los resultados de estas mismas consultas.  
 
-## Screenshots
+## Imagen MER
 
 ![modelo_entidad_relacion](https://user-images.githubusercontent.com/105289424/179334978-60b95c96-224d-406a-8140-58ad1ff772bb.jpg)
 
