@@ -13,14 +13,14 @@ los resultados de estas mismas consultas.
 ## ## Explicación de sentencias DDL y DML
 En la sentencia DDL, se almacena el script_bd.sql, el cual corresponde a las tablas de la base de datos.
 
-En la sentancia DML Datos.sql, se almacenan todos los registros de la base de datos
+En la sentancia DML Datos.sql, se almacenan todos los registros de la base de datos.
 
-La consulta 1 muestra la informacion de los usuarios y que roles tiene
+La consulta 1 muestra la informacion de los usuarios y que roles tiene.
 
-La consulta 2 muestra la informacion de los usuarios y a que ciudad pertenece con la direccion 
+La consulta 2 muestra la informacion de los usuarios y a que ciudad pertenece con la direccion.
 
-La consulta 3 muestra la informacion de los ususarios, a que grupo , carrera, y sus modulos con condicional del nombre usuario
+La consulta 3 muestra la informacion de los ususarios, a que grupo , carrera, y sus modulos con condicional del nombre usuario.
 
-La consulta 4 muestra la informacion de los usuarios y que noticias han consultado
+La consulta 4 muestra la informacion de los usuarios y que noticias han consultado.
 
-La consulta 5 muestra la informacion de los usuarios y la informacion en general de todas las tablas (curso,ciudad,grupo,modulo,direccion,roles,carreras,etc)
+La consulta 5 muestra la informacion de los usuarios y la informacion en general de todas las tablas (curso,ciudad,grupo,modulo,direccion,roles,carreras,etc).
